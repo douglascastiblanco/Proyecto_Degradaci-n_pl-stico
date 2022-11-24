@@ -1,6 +1,6 @@
-# Proyecto_Degradacion_plastico
+# Proyecto: Clasificación de proteínas que degradan plástico.
 
-#Pontificia Universidad Javeriana
+#Pontificia Universidad Javeriana-Procesamiento de lenguaje natural
 
 #Integrantes: Diego Montoya- Douglas Castiblanco - Julian Zuluaga
 
