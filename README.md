@@ -1,7 +1,8 @@
 # Proyecto_Degradacion_plastico
 
-Pontificia Universidad Javeriana
-Integrantes: Diego Montoya- Douglas Castiblanco - Julian Zuluaga
+#Pontificia Universidad Javeriana
+
+#Integrantes: Diego Montoya- Douglas Castiblanco - Julian Zuluaga
 
 
 CONTEXTO. 
